@@ -7,7 +7,7 @@ The application goes a step further by incorporating NPC (non-player character) 
 
 And it's still very much not finished.
 
-## Videos
+## Videos [SOUND ON!]
 https://github.com/PauliusRaila/ChatGPT-Generative-TV-Show/assets/28274535/4093b8b9-9a05-4579-8b21-24abfa178388
 
 
