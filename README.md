@@ -4,3 +4,5 @@ This innovative project combines the OpenAI ChatGPT API with either Microsoft or
 Utilizing this data, the application dynamically generates audio for each speaker, assigning gender-specific voices based on their names. These audio elements, along with laughter tracks, random actions, camera switches, and dialogue audio files, are seamlessly integrated into a Unity Timeline.
 
 The application goes a step further by incorporating NPC (non-player character) interactions, such as characters looking at each other, performing animations, walking around, or engaging in various actions. The result is a continuous and dynamic AI-driven TV show experience that brings together storytelling, audio synthesis, and visual elements.
+
+And it's still very much not finished.
