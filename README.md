@@ -6,3 +6,8 @@ Utilizing this data, the application dynamically generates audio for each speake
 The application goes a step further by incorporating NPC (non-player character) interactions, such as characters looking at each other, performing animations, walking around, or engaging in various actions. The result is a continuous and dynamic AI-driven TV show experience that brings together storytelling, audio synthesis, and visual elements.
 
 And it's still very much not finished.
+
+## Videos
+https://github.com/PauliusRaila/ChatGPT-Generative-TV-Show/assets/28274535/4093b8b9-9a05-4579-8b21-24abfa178388
+
+
