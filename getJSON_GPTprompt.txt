@@ -1,0 +1,14 @@
+{
+    "dialogue": [
+        {
+            "speaker": "name",
+            "spokenText": "text",
+            "laughTrack": "false",
+        }
+    ]
+}
+
+IMPORTANT: "laughTrack" can only be true or false. Make laughTrack true only at a joke punchline.
+VERY IMPORTANT: "speaker" can only contain Tomas or Laura value.
+
+
