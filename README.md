@@ -7,6 +7,8 @@ The application goes a step further by incorporating NPC (non-player character) 
 
 And it's still very much not finished.
 
+Made this basically on my steam deck while being on the road. :D
+
 ## Videos [SOUND ON!]
 
 https://github.com/PauliusRaila/ChatGPT-Generative-TV-Show/assets/28274535/d5f77e9d-b88c-4c47-a537-5d3561c19921
